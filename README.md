@@ -9,6 +9,9 @@ I'm **Matas Aleksas**, a Computer Science student at **UNH**. I'm interested in 
 - To further my knowledge on Java and Python
 - Learn C and C++
 
+- ## **What I'm Currently Working On**
+- My personal website
+
 - ## **Fun fact:**
 - I love cats 🐈
 <!--
