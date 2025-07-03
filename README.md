@@ -19,7 +19,7 @@ I'm **Matas Aleksas** (he/him), a Computer Science student at **UNH**. I'm inter
 ## **How to reach me:**
 - Via my personal website here: 👉 https://matasaleksas.github.io/contact
 
-- ## **Fun fact:**
+## **Fun fact:**
 - I love cats 🐈
 <!--
 **Smokey269/Smokey269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
