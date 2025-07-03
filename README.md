@@ -1,16 +1,23 @@
-## Greetings! :-)
+# Greetings! :-)
 
-I'm **Matas Aleksas**, a Computer Science student at **UNH**. I'm interested in **software engineering**, **motorsports**, **video games**, **working out**, and some other stuff. 
+I'm **Matas Aleksas** (he/him), a Computer Science student at **UNH**. I'm interested in **software engineering**, **motorsports**, **video games**, **working out**, and some other stuff. 
 
-- ## **Education:**
+## **Education:**
+
 - B.S. Computer Science at The University Of New Hampshire September 2024-Current
 
-- ## **Im currently learning:**
-- To further my knowledge on Java and Python
-- Learn C and C++
+## **Im currently learning:**
 
-- ## **What I'm Currently Working On**
+- Front and back end web development (different tech stacks etc.)
+- Furthering knowledge on Java and Python through various projects
+
+## **What I'm Currently Working On**
+
 - My personal website
+- My Java chat System
+
+## **How to reach me:**
+- Via my personal website here: 👉 https://matasaleksas.github.io/contact
 
 - ## **Fun fact:**
 - I love cats 🐈
