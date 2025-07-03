@@ -17,7 +17,7 @@ I'm **Matas Aleksas** (he/him), a Computer Science student at **UNH**. I'm inter
 - My Java chat System
 
 ## **How to reach me:**
-- Via my personal website here: 👉 https://matasaleksas.github.io/contact
+- Via my personal website here: 👉 [https://matasaleksas.github.io](https://matasaleksas.github.io/)
 
 ## **Fun fact:**
 - I love cats 🐈
